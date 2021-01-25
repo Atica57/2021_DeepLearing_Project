@@ -12,3 +12,9 @@ http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html
 
 https://arxiv.org/pdf/1703.10593.pdf
 
+3. 딥러닝 관련 수학(선형대수, 확률통계, 미적분) 관련 링크 
+
+https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+
+https://wikidocs.net/book/563
+
