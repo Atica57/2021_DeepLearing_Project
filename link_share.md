@@ -12,6 +12,9 @@ http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html
 
 https://arxiv.org/pdf/1703.10593.pdf
 
+-Keras GAN 깃험 자료 (여러종류 GAN 설명이랑 코드 정리 되어있음)
+https://github.com/eriklindernoren/Keras-GAN
+
 3. 딥러닝 관련 수학(선형대수, 확률통계, 미적분) 관련 링크 
 
 https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
@@ -25,4 +28,6 @@ https://wikidocs.net/book/563
 - 라온피플 머신러닝 아카데미 (https://blog.naver.com/laonple/220463627091)
 - PR12 논문읽기 모임 시즌 1 (https://www.youtube.com/watch?v=auKdde7Anr8&list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 - 유용한 자료 모음 (https://github.com/ChristosChristofidis/awesome-deep-learning)
+- music transformation 자료 https://magenta.tensorflow.org/listen-to-transformer, https://medium.com/swlh/create-your-own-classical-music-with-google-magenta-transformer-d8a6c810cfcb
+- stylegan2 자료 https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236
 
