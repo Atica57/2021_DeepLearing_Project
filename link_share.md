@@ -15,8 +15,9 @@ https://arxiv.org/pdf/1703.10593.pdf
 -Keras GAN 깃험 자료 (여러종류 GAN 설명이랑 코드 정리 되어있음)
 https://github.com/eriklindernoren/Keras-GAN
 
--Cycle GAN 박태성 저자님 강연 자료 및 영상 
+-Cycle GAN 박태성 저자님 강연 자료 및 영상 & pytorch로 구현한 코드 
 https://www.facebook.com/naverengineering/posts/1617429358324534/
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 3. 딥러닝 관련 수학(선형대수, 확률통계, 미적분) 관련 링크 
 
