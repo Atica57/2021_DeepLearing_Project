@@ -34,4 +34,4 @@ https://wikidocs.net/book/563
 - 유용한 자료 모음 (https://github.com/ChristosChristofidis/awesome-deep-learning)
 - music transformation 자료 https://magenta.tensorflow.org/listen-to-transformer, https://medium.com/swlh/create-your-own-classical-music-with-google-magenta-transformer-d8a6c810cfcb
 - stylegan2 자료 https://towardsdatascience.com/stylegan2-projection-a-reliable-method-for-image-forensics-700922579236
-
+- Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
